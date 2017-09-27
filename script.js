@@ -1,5 +1,5 @@
 /**
- * Created by h205p2 on 9/15/17.
+ * Created by Sarah Blankespoor on 9/20/17. JavaScript problems 1-10.
  */
 /* this function calculates whether you can sleep in based on whether it is a
 weekday, vacation, or neither
